@@ -55,8 +55,4 @@ binary of 156 (bin(156)) is '0b10011100'
 there are max consecutive 1s is 3 
 
 sample input
-12
-sample output
-2
-
-```
+12```
